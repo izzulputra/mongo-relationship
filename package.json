@@ -1,0 +1,22 @@
+{
+  "name": "mongo-relationship",
+  "version": "1.0.0",
+  "description": "relation in mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izzulputra/mongo-relationship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izzulputra/mongo-relationship/issues"
+  },
+  "homepage": "https://github.com/izzulputra/mongo-relationship#readme",
+  "dependencies": {
+    "mongoose": "^6.2.2"
+  }
+}
